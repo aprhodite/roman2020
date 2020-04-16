@@ -33,16 +33,16 @@ All researchers interested in contributing to the discussion are invited to subm
 - Smart environments
 - Other related topics
 
-## Chairs
+## CHAIRS
 
-1. **Laura Fiorini**, Scuola Superiore Sant’Anna, Italy [bio]()
-2. **Filippo Cavallo**, University of Florence, Italy [bio]()
-3. **Gabriella Cortellessa**,Consiglio Nazionale delle Ricerche, Italy [bio]()
-4. **Artur Serrano**, Norwegian University of Science and Technology, Norway [bio]()
-5. **Marek Bundzel**, Technical University of Košice, Slovakia [bio]()
-6. **Joao Quintas**, Instituto Pedro Nunes, Portugal [bio]()
+1. **Laura Fiorini**, Scuola Superiore Sant’Anna, Italy [web](https://www.santannapisa.it/en/laura-fiorini)
+2. **Filippo Cavallo**, University of Florence, Italy [web] (https://www.researchgate.net/profile/Filippo_Cavallo)
+3. **Gabriella Cortellessa**,Consiglio Nazionale delle Ricerche, Italy [web](https://www.istc.cnr.it/en/people/gabriella-cortellessa)
+4. **Artur Serrano**, Norwegian University of Science and Technology, Norway [web](https://www.ntnu.edu/employees/artur.serrano)
+5. **Marek Bundzel**, Technical University of Košice, Slovakia [web](http://www.ai-cit.sk/People/MarekBundzel)
+6. **Joao Quintas**, Instituto Pedro Nunes, Portugal [web](https://www.researchgate.net/profile/Joao_Quintas)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+##SPONSORS
+ ![ROMAN](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FES0rHA_XkAAQCfp.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Froman2020ieee&tbnid=Tm1ZPEdqe6EqmM&vet=12ahUKEwisgIH-0O3oAhXLhqQKHa-fDUwQMygBegUIARDRAQ..i&docid=eWw5nVJDVWtG2M&w=555&h=555&q=ro-man%202020%20conference&ved=2ahUKEwisgIH-0O3oAhXLhqQKHa-fDUwQMygBegUIARDRAQ)
+ ![NTNU](https://www.google.com/url?sa=i&url=https%3A%2F%2Feuraxess.ec.europa.eu%2Fworldwide%2Fasean%2Fmsca-if-call-2020-symposium-msca-if-applicants-norwegian-university-science-and&psig=AOvVaw1rBBMi4D_Dybm2xr5ToDSK&ust=1587150041149000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDhmubQ7egCFQAAAAAdAAAAABAD)
 
