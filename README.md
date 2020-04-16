@@ -11,17 +11,17 @@ This workshop is organized in conjunction with IEEE RO-MAN ‘20 - The 29th IEEE
 **Submission of camera-ready workshop abstracts:** 10/07/2020
 
 ##Topics of interest include:
-• Robot companions
-• Social interaction
-• Development and Learning for HRI
-• Robot as a tool to study social cognition
-• Therapeutic robots
-• Cultural differences in user needs/expectations • Multi-modal human-machine interfaces
-• Intelligent and Cognition-based User Interaction • Human behavioural modelling
-• Activity monitoring systems/activity recognition • Multi-modal perception
-• Novel sensors
-• Smart environments
-• Other related topics
+- Robot companions
+- Social interaction
+- Development and Learning for HRI
+- Robot as a tool to study social cognition
+- Therapeutic robots
+- Cultural differences in user needs/expectations • Multi-modal human-machine interfaces
+- Intelligent and Cognition-based User Interaction • Human behavioural modelling
+- Activity monitoring systems/activity recognition • Multi-modal perception
+- Novel sensors
+- Smart environments
+- Other related topics
 
 ## Chairs
 
