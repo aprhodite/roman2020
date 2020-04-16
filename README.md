@@ -36,7 +36,7 @@ All researchers interested in contributing to the discussion are invited to subm
 ## CHAIRS
 
 1. **Laura Fiorini**, Scuola Superiore Sant’Anna, Italy [web](https://www.santannapisa.it/en/laura-fiorini)
-2. **Filippo Cavallo**, University of Florence, Italy [web] (https://www.researchgate.net/profile/Filippo_Cavallo)
+2. **Filippo Cavallo**, University of Florence, Italy [web](https://www.researchgate.net/profile/Filippo_Cavallo)
 3. **Gabriella Cortellessa**,Consiglio Nazionale delle Ricerche, Italy [web](https://www.istc.cnr.it/en/people/gabriella-cortellessa)
 4. **Artur Serrano**, Norwegian University of Science and Technology, Norway [web](https://www.ntnu.edu/employees/artur.serrano)
 5. **Marek Bundzel**, Technical University of Košice, Slovakia [web](http://www.ai-cit.sk/People/MarekBundzel)
