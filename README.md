@@ -43,6 +43,6 @@ All researchers interested in contributing to the discussion are invited to subm
 6. **Joao Quintas**, Instituto Pedro Nunes, Portugal [web](https://www.researchgate.net/profile/Joao_Quintas)
 
 ##SPONSORS
- ![ROMAN](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FES0rHA_XkAAQCfp.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Froman2020ieee&tbnid=Tm1ZPEdqe6EqmM&vet=12ahUKEwisgIH-0O3oAhXLhqQKHa-fDUwQMygBegUIARDRAQ..i&docid=eWw5nVJDVWtG2M&w=555&h=555&q=ro-man%202020%20conference&ved=2ahUKEwisgIH-0O3oAhXLhqQKHa-fDUwQMygBegUIARDRAQ)
+ ![ROMAN](https://pbs.twimg.com/media/ES0rHA_XkAAQCfp.jpg)
  ![NTNU](https://www.google.com/url?sa=i&url=https%3A%2F%2Feuraxess.ec.europa.eu%2Fworldwide%2Fasean%2Fmsca-if-call-2020-symposium-msca-if-applicants-norwegian-university-science-and&psig=AOvVaw1rBBMi4D_Dybm2xr5ToDSK&ust=1587150041149000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDhmubQ7egCFQAAAAAdAAAAABAD)
 
