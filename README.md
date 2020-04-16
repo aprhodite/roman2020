@@ -1,4 +1,4 @@
-![Image of workshop](https://aprhodite.github.io/roman2020/images/ws.png))
+![Image of workshop](https://aprhodite.github.io/roman2020/ws.png))
 
 ## APRHODITE WORKSHOP 
 ## AdaPtive beHavioRal mODels of robotic systems based on brain-inspired AI cogniTivE architectures.
