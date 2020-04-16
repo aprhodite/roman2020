@@ -42,7 +42,10 @@ All researchers interested in contributing to the discussion are invited to subm
 5. **Marek Bundzel**, Technical University of Košice, Slovakia [web](http://www.ai-cit.sk/People/MarekBundzel)
 6. **Joao Quintas**, Instituto Pedro Nunes, Portugal [web](https://www.researchgate.net/profile/Joao_Quintas)
 
-##SPONSORS
- ![ROMAN](https://pbs.twimg.com/media/ES0rHA_XkAAQCfp.jpg)
- ![NTNU](https://www.google.com/url?sa=i&url=https%3A%2F%2Feuraxess.ec.europa.eu%2Fworldwide%2Fasean%2Fmsca-if-call-2020-symposium-msca-if-applicants-norwegian-university-science-and&psig=AOvVaw1rBBMi4D_Dybm2xr5ToDSK&ust=1587150041149000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDhmubQ7egCFQAAAAAdAAAAABAD)
+## SPONSORS
+
+ ![ROMAN](https://pbs.twimg.com/media/ES0rHA_XkAAQCfp.jpg =100x100)
+ ![SI-ROBOTICS](https://www.istitutomarino.it/wp-content/uploads/2019/09/Positivo-Colori.png =100x100)
+ ![SSSA]()
+ ![NTNU](https://cdn2.euraxess.org/sites/default/files/news/ntnu_1.png =100x100)
 
