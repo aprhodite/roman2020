@@ -1,37 +1,38 @@
 ## APRHODITE WORKSHOP 
+## AdaPtive beHavioRal mODels of robotic systems based on brain-inspired AI cogniTivE architectures.
+This workshop is organized in conjunction with IEEE RO-MAN ‘20 - The 29th IEEE International Symposium on Robot and Human Interactive Communication. The cooperation between humans and robots is becoming increasingly important in our society. Consequently, there is a growing interest in the development of models that can enhance the interaction between humans and robots. This workshop aims to bring together researchers from different scientific community in order to promote cooperation and discussion with the idea that a multidisciplinary context is ideal for fostering this research topic.
 
-You can use the [editor on GitHub](https://github.com/aprhodite/roman2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- **Workshop date:** August 31, 2020
+- **Workshop location:** Royal Continental Hotel, Naples, Italy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CALL FOR PAPERS
+**Submission of workshop abstracts:** 15/05/2020
+**Notification of acceptance for workshop abstracts:** 28/06/2020
+**Submission of camera-ready workshop abstracts:** 10/07/2020
 
-### Markdown
+##Topics of interest include:
+• Robot companions
+• Social interaction
+• Development and Learning for HRI
+• Robot as a tool to study social cognition
+• Therapeutic robots
+• Cultural differences in user needs/expectations • Multi-modal human-machine interfaces
+• Intelligent and Cognition-based User Interaction • Human behavioural modelling
+• Activity monitoring systems/activity recognition • Multi-modal perception
+• Novel sensors
+• Smart environments
+• Other related topics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Chairs
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. **Laura Fiorini**, Scuola Superiore Sant’Anna, Italy [bio]()
+2. **Filippo Cavallo**, University of Florence, Italy [bio]()
+3. **Gabriella Cortellessa**,Consiglio Nazionale delle Ricerche, Italy [bio]()
+4. **Artur Serrano**, Norwegian University of Science and Technology, Norway [bio]()
+5. **Marek Bundzel**, Technical University of Košice, Slovakia [bio]()
+6. **Joao Quintas**, Instituto Pedro Nunes, Portugal [bio]()
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aprhodite/roman2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
