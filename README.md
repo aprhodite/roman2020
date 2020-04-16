@@ -44,8 +44,8 @@ All researchers interested in contributing to the discussion are invited to subm
 
 ## SPONSORS
 
- ![ROMAN](https://pbs.twimg.com/media/ES0rHA_XkAAQCfp.jpg =100x100)
+ <!--![ROMAN](https://pbs.twimg.com/media/ES0rHA_XkAAQCfp.jpg =100x100)
  ![SI-ROBOTICS](https://www.istitutomarino.it/wp-content/uploads/2019/09/Positivo-Colori.png =100x100)
  ![SSSA]()
- ![NTNU](https://cdn2.euraxess.org/sites/default/files/news/ntnu_1.png =100x100)
+ ![NTNU](https://cdn2.euraxess.org/sites/default/files/news/ntnu_1.png =100x100) -->
 
