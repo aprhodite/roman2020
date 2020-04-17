@@ -53,8 +53,8 @@ Manuscripts can be submitted to the special issue at any time. All papers will b
 ## SPONSORS
 
  <img src="https://aprhodite.github.io/roman2020/images/romanLogo.jpg" width="100" height="100">
- <img src="https://aprhodite.github.io/roman2020/images/SIRob.png" width="200" height="100">
- <img src="https://aprhodite.github.io/roman2020/images/lifebots.jpeg" width="200" height="100">
+ <img src="https://aprhodite.github.io/roman2020/images/SIRob.png" width="300" height="100">
+ <img src="https://aprhodite.github.io/roman2020/images/lifebots.jpeg" width="300" height="100">
  <img src="https://aprhodite.github.io/roman2020/images/logo.png" width="200" height="100">
  <img src="https://aprhodite.github.io/roman2020/images/unifi.png" width="200" height="100">
  <img src="https://aprhodite.github.io/roman2020/images/CNR.png" width="100" height="100">
