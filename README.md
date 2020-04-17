@@ -1,4 +1,4 @@
-![Image of workshop](https://aprhodite.github.io/roman2020/ws.png)
+![Image of workshop](https://aprhodite.github.io/roman2020/images/ws.png)
 
 # APRHODITE WORKSHOP 
 ## AdaPtive beHavioRal mODels of robotic systems based on brain-inspired AI cogniTivE architectures.
@@ -52,8 +52,9 @@ Manuscripts can be submitted to the special issue at any time. All papers will b
 
 ## SPONSORS
 
- ![ROMAN](https://pbs.twimg.com/media/ES0rHA_XkAAQCfp.jpg=100x100)
- ![SI-ROBOTICS](https://www.istitutomarino.it/wp-content/uploads/2019/09/Positivo-Colori.png=100x100)
+ ![ROMAN](https://aprhodite.github.io/roman2020/images/romanLogo.png)
+ ![SI-ROBOTICS](https://aprhodite.github.io/roman2020/images/SIRob.png)
  <!--[SSSA]()-->
- ![NTNU](https://cdn2.euraxess.org/sites/default/files/news/ntnu_1.png=100x100)
+ ![LIFEBOTS](https://aprhodite.github.io/roman2020/images/lifebots.jpeg)
+ ![NTNU](https://aprhodite.github.io/roman2020/images/ntnu_1.png)
 
