@@ -18,7 +18,7 @@ All researchers interested in contributing to the discussion are invited to subm
 
 **Submission of camera-ready workshop abstracts:** 10/07/2020
 
-#### Topics of interest include:
+### Topics of interest include:
 - Robot companions
 - Social interaction
 - Development and Learning for HRI
@@ -33,6 +33,13 @@ All researchers interested in contributing to the discussion are invited to subm
 - Novel sensors
 - Smart environments
 - Other related topics
+
+### Paper Pubblication
+We would like to inform you that this workshop is linked to a **Special Issue** of the **International Journal of Social Robotics**, titled [Behavioral model for robot based on brain-inspired AI cognitive architecture](https://www.springer.com/journal/12369/updates/17900528).
+This special issue is now open for submission.  
+Authors of a manuscript accepted (including those with minor revisions) for publication in the Special Issue before the 25/08/2020 will be given the opportunity to present at the workshop.
+Vice versa, authors of best contributions accepted at the workshop will be invited to submit a revised and substantially extended versions of selected papers to the special issue.
+Manuscripts can be submitted to the special issue at any time. All papers will be peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Please visit the Instructions for Authors page before submitting a manuscript. 
 
 ## CHAIRS
 
