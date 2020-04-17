@@ -54,7 +54,7 @@ Manuscripts can be submitted to the special issue at any time. All papers will b
 
  <img align="left" src="https://aprhodite.github.io/roman2020/images/romanLogo.jpg" width="150" height="150">
  <img align="center" src="https://aprhodite.github.io/roman2020/images/SIRob.png" width="300" height="100">
- <img align="right" src="https://aprhodite.github.io/roman2020/images/lifebots.jpeg" width="300" height="100">
+ <img align="right" src="https://aprhodite.github.io/roman2020/images/lifebots.jpeg" width="250" height="100">
  <img src="https://aprhodite.github.io/roman2020/images/logo.png" width="200" height="100">
  <img src="https://aprhodite.github.io/roman2020/images/unifi.png" width="200" height="100">
  <img src="https://aprhodite.github.io/roman2020/images/CNR.png" width="150" height="150">
